@@ -29,7 +29,7 @@ The notebooks are written in Python and utilize popular libraries such as Tensor
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/yourusername/Corporeal-AIML.git
+   git clone https://github.com/Rohithvsrohith/Corporeal-AIML.git
    cd Corporeal-AIML
    ```
 
